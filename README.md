@@ -1,7 +1,7 @@
 
 ***
 
-# Welcome to The C-PROJECTS-BETA-TESTING Repository!
+# Welcome to The python-PROJECTS-BETA-TESTING Repository!
 
 ***
 
